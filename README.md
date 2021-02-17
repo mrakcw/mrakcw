@@ -1,4 +1,10 @@
 ### Hi there 👋
+## Keep calm and work harder
+- 🔭 I’m currently working on Aweb
+- 💬 Get In Touch With [Telegram](https://t.me/mrakcw)
+- 😄 Better than any social network [Codepen](https://codepen.io/mrakcw)
+
+
 
 <!--
 **mrakcw/mrakcw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
