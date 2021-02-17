@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Bike life 🏍 🏍 🏍
+# 🏍 🏍 🏍
 
 ## Keep calm and work harder ⭐ 
 - 🔭 I’m currently working as a content manager, but this is just the beginning of my experience.✨✨✨
