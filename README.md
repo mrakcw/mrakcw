@@ -1,11 +1,11 @@
-### Hi there 👋
-# 🏍 🏍 🏍
-
-## Keep calm and work harder ⭐ 
+### Hi there 👋 📍 Keep calm and work harder ⭐
 - 👨‍💻 Front End developer (junior)✨✨✨
 - 🔭 My link list on [Taplink](https://taplink.cc/4uk_4upik)
 - 💬 Get In Touch With [Telegram](https://t.me/mrakcw)
 - 😄 Better than any social network [Codepen](https://codepen.io/mrakcw)
+
+
+![Create something amazinga](https://github-readme-stats.vercel.app/api?username=mrakcw&count_private=true&show_icons=true&theme=prussian "Some strange man 🧙‍♂️ - MrakCw")
 
 
 
@@ -13,7 +13,7 @@
 **mrakcw/mrakcw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+# 🏍 🏍 🏍
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
