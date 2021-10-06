@@ -7,6 +7,7 @@
 
 ![Create something amazinga](https://github-readme-stats.vercel.app/api?username=mrakcw&count_private=true&show_icons=true&theme=prussian "Some strange man 🧙‍♂️ - MrakCw")
 
+![Work harder 👑](https://github-readme-stats.vercel.app/api/top-langs/?username=mrakcw&count_private=true&show_icons=true&theme=prussian "Some strange man 🧙‍♂️ - MrakCw")
 
 
 <!--
