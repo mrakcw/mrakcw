@@ -9,6 +9,7 @@
 
 ![Work harder 👑](https://github-readme-stats.vercel.app/api/top-langs/?username=mrakcw&count_private=true&show_icons=true&theme=prussian "Some strange man 🧙‍♂️ - MrakCw")
 
+<a href="https://app.daily.dev/MrakCw"><img src="https://api.daily.dev/devcards/ab534477571c4e1490aac748f43dae42.png?r=r2y" width="400" alt="MrakCw's Dev Card"/></a>
 
 <!--
 **mrakcw/mrakcw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
