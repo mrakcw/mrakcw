@@ -4,7 +4,9 @@
 - 💬 Get In Touch With [Telegram](https://t.me/mrakcw)
 - 😄 Better than any social network [Codepen](https://codepen.io/mrakcw)
 
-![image](https://user-images.githubusercontent.com/2831212/146075467-80aa1469-b3ce-4d08-acf4-77732189098d.png)
+
+![image](https://user-images.githubusercontent.com/2831212/146075607-2578e3d0-89fe-4eda-a931-c0e9525a22ec.png)
+
 <!--
 ![Create something amazinga](https://github-readme-stats.vercel.app/api?username=mrakcw&count_private=true&show_icons=true&theme=prussian "Some strange man 🧙‍♂️ - MrakCw")
 <!--
