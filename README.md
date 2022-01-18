@@ -19,7 +19,7 @@
 
 ##### SKILLS
 
-##### TOOLD
+##### TOOLS
 
 ---
 
