@@ -1,5 +1,5 @@
 
-<a href="https://app.daily.dev/MrakCw"><figure><img src="https://api.daily.dev/devcards/ab534477571c4e1490aac748f43dae42.png?r=r2y" width="380" align="right" alt="MrakCw's Dev Card"/><figcaption><pre>📜 MrakCw's Dev Card 🧙‍♂️<br>👑 daily.dev ⭐ TOP NEWS FEEDS</pre></figcaption></figure></a>
+<a href="https://app.daily.dev/MrakCw"><figure><img src="https://api.daily.dev/devcards/ab534477571c4e1490aac748f43dae42.png?r=r2y" width="380" align="right" alt="MrakCw's Dev Card"/><figcaption><pre>📜 MrakCw's Dev Card 🧙‍♂️<br>👑 daily.dev<br>⭐ TOP NEWS FEEDS</pre></figcaption></figure></a>
 ---
 
 
