@@ -1,14 +1,33 @@
----
+
 <a href="https://app.daily.dev/MrakCw"><figure><img src="https://api.daily.dev/devcards/ab534477571c4e1490aac748f43dae42.png?r=r2y" width="400" align="right" alt="MrakCw's Dev Card"/><figcaption>📜 MrakCw's Dev Card 🧙‍♂️<br><pre>⭐ daily.dev 👑 TOP NEWS FEEDS ⭐</pre></figcaption></figure></a>
 ---
+
+
 ### Hi there 👋 📍 Keep calm and work harder ⭐
 - 👨‍💻 Front End developer (junior)✨✨✨
 - 🔭 My link list on [Taplink](https://taplink.cc/4uk_4upik)
 - 💬 Get In Touch With [Telegram](https://t.me/mrakcw)
 - 😄 Better than any social network [Codepen](https://codepen.io/mrakcw)
 
+---
+
 > ✅ Quality means doing it right when no one is looking 👍
 
+---
+
+##### EXP
+
+##### SKILLS
+
+##### TOOLD
+
+---
+
+###### &copy; 2022 [•  🐯 MrakCw - some strange man  •](https://mrakcw.cc.ua)
+
+---
+
+## MEMORY OF THE PAST 2021
 ![image](https://user-images.githubusercontent.com/2831212/146075607-2578e3d0-89fe-4eda-a931-c0e9525a22ec.png)
 
 
