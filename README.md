@@ -2,6 +2,7 @@
 <a href="https://app.daily.dev/MrakCw"><figure><img src="https://api.daily.dev/devcards/ab534477571c4e1490aac748f43dae42.png?r=r2y" width="380" align="right" alt="MrakCw's Dev Card"/><figcaption><pre>📜 MrakCw's Dev Card 🧙‍♂️<br>⭐ TOP NEWS FEEDS<br>👑 daily.dev</pre></figcaption></figure></a>
 ---
 
+[![Peerlist](https://github-readme-badge.peerlist.io/api/mrakcw?style=plastic)](https://peerlist.io/mrakcw)
 
 ### Hi there 👋 📍 Keep calm and work harder ⭐
 - 👨‍💻 Front End developer (junior)✨✨✨
