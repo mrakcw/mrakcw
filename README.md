@@ -5,7 +5,7 @@
 [![Peerlist](https://github-readme-badge.peerlist.io/api/mrakcw?style=plastic)](https://peerlist.io/mrakcw)
 
 ### Hi there 👋 📍 Keep calm and work harder ⭐
-- 👨‍💻 Front End developer (junior)✨✨✨
+- 👨‍💻 Front End developer ✨✨✨
 - 🔭 My link list on [Taplink](https://taplink.cc/4uk_4upik)
 - 💬 Get In Touch With [Telegram](https://t.me/mrakcw)
 - 😄 Better than any social network [Codepen](https://codepen.io/mrakcw)
@@ -16,19 +16,13 @@
 
 ---
 
-##### EXP
+###### MrakCw Dev 🌠 - prototyping and testing your own ideas and goals with the support of specific technologies [• Different Web •](https://mrakcw.tk)
 
-##### SKILLS
-
-##### TOOLS
+###### &copy; 2024 [•  🐯 MrakCw - some strange man  •](https://mrakcw.cc.ua)
 
 ---
 
-###### &copy; 2022 [•  🐯 MrakCw - some strange man  •](https://mrakcw.cc.ua)
-
----
-
-## MEMORY OF THE PAST 2021
+## MEMORY FROM 2021 
 ![image](https://user-images.githubusercontent.com/2831212/146075607-2578e3d0-89fe-4eda-a931-c0e9525a22ec.png)
 
 
