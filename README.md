@@ -16,7 +16,7 @@
 
 ---
 
-###### MrakCw Dev 🌠 - prototyping and testing your own ideas and goals with the support of specific technologies [• Different Web •](https://mrakcw.tk)
+###### MrakCw Dev 🌠 - prototyping and testing personal own ideas and goals with the support of specific technologies [• Different Web •](https://mrakcw.tk)
 
 ###### &copy; 2024 [•  🐯 MrakCw - some strange man  •](https://mrakcw.cc.ua)
 
